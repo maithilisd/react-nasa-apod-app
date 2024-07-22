@@ -41,10 +41,12 @@
 }
 
 .errorState {
+  font-size: 1.5rem;
   display: flex;
   align-items: center;
   justify-content: center;
   flex: 1;
+  gap: 1em;
 }
 
 .loadingState i {
