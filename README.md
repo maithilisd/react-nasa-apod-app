@@ -1,7 +1,7 @@
 # NASA APOD App
 
-![Screenshot of NASA APOD](screenshots/react-nasa-apod-image.png)
-![Screenshot of NASA APOD details](screenshots/react-nasa-apod-modal.png)
+[![Screenshot of NASA APOD](screenshots/react-nasa-apod-image.png)](https://nasa-apod-app-react.netlify.app/)
+[![Screenshot of NASA APOD details](screenshots/react-nasa-apod-modal.png)](https://nasa-apod-app-react.netlify.app/)
 
 ## Overview
 
@@ -47,3 +47,7 @@ Follow these steps to set up and run the project locally:
    ```
 
 5. **Open your browser and navigate to:** Open your browser and navigate to [http://localhost:5173](http://localhost:5173/) to see the application in action.
+
+## Deployment
+
+The application is deployed on Netlify and can be viewed [here](https://nasa-apod-app-react.netlify.app/).
